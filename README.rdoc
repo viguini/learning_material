@@ -1,11 +1,3 @@
-= Proof of concept learning material
+= Moved to RMU official repo
 
-== Usage
-
-First initialize the git submodules:
-
-    git submodule update --init --recursive
-    
-Then run
-
-    ruby document/table.rb
+rmu/learning-series[https://github.com/rmu/learning-series]
